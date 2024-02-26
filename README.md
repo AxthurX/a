@@ -1,4 +1,4 @@
-# base-ionic5-cordova-angular-
+# base projeto em ionic 5 / cordova / Angular
 projeto de base 
 instalar a plataforma, plugins, resource e o node_modules
 
